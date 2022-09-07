@@ -1,4 +1,4 @@
-# vue-practice-v2
+# vue-practice
 
 ## Project setup
 ```
@@ -10,10 +10,12 @@ npm install
 npm run serve
 ```
 
+### Run Json server
+```
+npm run backend
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
